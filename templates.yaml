@@ -1,0 +1,2 @@
+asset: "{cwd}/{project}/assets/{item}/{type}"
+level: "{cwd}/{project}/levels/{item}"
