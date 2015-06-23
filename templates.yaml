@@ -1,2 +1,2 @@
-asset: "{cwd}/{project}/assets/{item}/{task}"
-level: "{cwd}/{project}/levels/{item}"
+asset: "{cwd}/{0}/assets/{1}/{2}"
+level: "{cwd}/{0}/levels/{1}/{2}"
